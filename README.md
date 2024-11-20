@@ -11,7 +11,7 @@ Website: [http://falconai.outer.jhuapl.edu](http://falconai.outer.jhuapl.edu/)
 
 - Original model: Open-Llama v2 (7 billion parameters)
 - Fine-tuned on: radar textbooks and journals, threats briefs
-- Protected with: LangChain gaurdrails (NSFW, jailbreaking)
+- Protected with: Nemo gaurdrails (NSFW, jailbreaking)
 - Built with: ReAct framework Human Machine Teaming capabilities
 - Constructed with: Flask (Python web framework)
 
